@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottieSplashScreen.iOS", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottieSplashScreen", "LottieSplashScreen\LottieSplashScreen\LottieSplashScreen.csproj", "{00A1E4A9-104F-4A46-B7F0-82D8B1B74820}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{0F6BECE3-FF54-4829-A803-20CDA62DB876}"
+	ProjectSection(SolutionItems) = preProject
+		LottieSplashScreen\Video\Lottie_App.mp4 = LottieSplashScreen\Video\Lottie_App.mp4
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
