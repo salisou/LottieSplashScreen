@@ -58,6 +58,10 @@ All options:
             HorizontalOptions="FillAndExpand" />
 
 
+
+## Lottie Splash Screen 
+![BambiMam](https://github.com/salisou/LottieSplashScreen/blob/master/LottieSplashScreen/Video/animation.gif)
+
 ---------------------------------
 Star on Github if this project helps you: https://github.com/Baseflow/LottieXamarin
 
